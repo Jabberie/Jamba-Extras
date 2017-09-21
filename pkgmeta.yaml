@@ -1,0 +1,8 @@
+package-as: Jamba-Extras
+enable-nolib-creation: yes
+
+license-output: LICENSE.txt
+
+ignore:
+    - README.md
+    - .pkgmeta

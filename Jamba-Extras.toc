@@ -5,7 +5,7 @@
 ## Version: 1.0.0
 ## X-Category: Interface Enhancements
 ## X-Child-Of: Jamba
-## Dependencies: Jamba, Bazooka
+## Dependencies: Jamba
 ## SavedVariables: JambaExtrasProfileDB
 
 Jamba-Extras.lua

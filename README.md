@@ -4,20 +4,16 @@ Requires Jamba
 
  
 
-Adds a broker button for Bazooka
+Adds a broker button for Broker Bars.
 Simple click to open the main Jamba addon.
-
  
 
-Adds lowered warning noises
+Adds lowered warning noises. (-10, -20, -30db)
 Can and will be adding more warning sounds for use.  
 
-J-Warning-10db  
-
-J-Warning-20db  
-
-J-Warning-30db  
-
- 
+J-Warning
+J-Sonar
+J-Wilhelm
+J-Fatality
 
 Leave a comment if you would like to see specific ones

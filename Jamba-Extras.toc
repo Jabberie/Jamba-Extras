@@ -1,7 +1,7 @@
 ## Interface: 70300
 ## Title: Jamba-Extras
 ## Notes: Jamba-Extras
-## Version: 1.0.0
+## Version: 3.0.0
 ## X-Category: Interface Enhancements
 ## X-Child-Of: Jamba
 ## Dependencies: Jamba

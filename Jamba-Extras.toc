@@ -1,7 +1,6 @@
 ## Interface: 70300
 ## Title: Jamba-Extras
 ## Notes: Jamba-Extras
-## Jamba Author: Ebony, DropDownchanges by Schilm, Former Author: Jafula 
 ## Version: 1.0.0
 ## X-Category: Interface Enhancements
 ## X-Child-Of: Jamba
